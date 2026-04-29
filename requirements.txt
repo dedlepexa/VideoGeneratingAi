@@ -9,3 +9,5 @@ safetensors
 pillow 
 diffusers
 peft
+imageio
+imageio[ffmpeg]
